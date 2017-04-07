@@ -8,7 +8,7 @@ https://itunes.apple.com/us/app/ace-fishing-wild-catch/id694972182?mt=8
 ## Dependencies
 1. iPhone 7+ Jailbroken with backboardd fixed (iPhone 6+ should work but not tested)
 2. Autotouch V3.6.1
-3. Acefishing V2.4.5 (Language in Traditional Chinese)
+3. Acefishing V2.4.5 (Language in Traditional Chinese<繁体中文>)
 
 ## Screenshots
 1. On the fishing interface activate Autotouch by long pressing volumne down button.
