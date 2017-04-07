@@ -11,3 +11,7 @@ https://itunes.apple.com/us/app/ace-fishing-wild-catch/id694972182?mt=8
 3. Acefishing V2.4.5 <Language in Traditional Chinese>
 
 ## Screenshots
+1. On fishing interface activate Autotouch by long pressing volumne down button.
+![img_5512](https://cloud.githubusercontent.com/assets/16481229/24788082/266956fe-1b9e-11e7-98ae-a4f921a68218.PNG)
+2. Set the times and then click on play
+![img_5513](https://cloud.githubusercontent.com/assets/16481229/24788083/2669d57a-1b9e-11e7-9584-f0c97066ecdc.PNG)
